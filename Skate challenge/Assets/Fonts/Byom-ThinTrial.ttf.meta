@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a1e0c5aa25844974f86b909176915aa8
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Byom
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a0532692563c7b24eb9ae4f5b3028a56, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
